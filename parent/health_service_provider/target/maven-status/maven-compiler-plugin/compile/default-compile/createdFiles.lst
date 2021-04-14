@@ -1,0 +1,13 @@
+com\guigu\dao\CheckGroupDao.class
+com\guigu\dao\SetmealDao.class
+com\guigu\service\impl\CheckItemServiceImpl.class
+com\guigu\service\impl\OrderSettingServiceImpl.class
+com\guigu\service\impl\OrderServiceImpl.class
+com\guigu\service\impl\SermealServiceImpl.class
+com\guigu\dao\CheckItemDao.class
+com\guigu\dao\AddressDao.class
+com\guigu\service\impl\CheckGroupServiceImpl.class
+com\guigu\dao\OrderDao.class
+com\guigu\dao\OrderSettingDao.class
+com\guigu\dao\MemberDao.class
+com\guigu\service\impl\AddressServiceImpl.class
